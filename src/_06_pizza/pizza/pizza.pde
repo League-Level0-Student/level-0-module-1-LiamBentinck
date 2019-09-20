@@ -7,7 +7,7 @@ void draw() {
   ellipse(500,500, 500, 500);  
   fill(#D8484B);
   ellipse(500, 500, 450, 450);
-  fill(#D6E531);
+  fill(#BDCE75);
   ellipse(500, 500, 400, 400);
   PImage pepperoni = loadImage("evil.png");
     pepperoni.resize(100, 100);
